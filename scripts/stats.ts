@@ -58,7 +58,7 @@ export async function request(date: { from?: Date; to?: Date }) {
 		}
 		`,
     variables: {
-      username: "aidrecabrera",
+      username: "YOUR_GITHUB_USERNAME",
       from: date.from?.toISOString(),
       to: date.to?.toISOString(),
     },
@@ -67,7 +67,7 @@ export async function request(date: { from?: Date; to?: Date }) {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      "User-Agent": "aidrecabrera/readme",
+      "User-Agent": "YOUR_GITHUB_USERNAME/readme",
       Authorization: `bearer ${process.env.GH_SECRET}`,
     },
     body: JSON.stringify(body),
@@ -151,7 +151,7 @@ export const fetchPulse = async (username: string): Promise<PulseStats> => {
   return data;
 };
 
-const pulseData = await fetchPulse("svenesismar");
+const pulseData = await fetchPulse("YOUR_WHATPULSE_USERNAME");
 await writeFile("src/pulse.json", JSON.stringify(pulseData, null, 2));
 
 console.log("...Done");
