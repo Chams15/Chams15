@@ -2,7 +2,7 @@ import type { Year } from "./worker";
 
 const BP_MEDIUM = 550;
 const BP_LARGE = 700;
-const BODY_COPY = `YOUR_NAME—YOUR_TAGLINE.`;
+const BODY_COPY = `Charmelle John Cahucom—Why did the scarecrow win an award? Because he was outstanding in his field!`;
 
 interface Props {
   width?: number;
@@ -535,7 +535,7 @@ export const top = (
 			<div class="contributions fade-in">
 				<span class="shine">${(props.contributions / 1000).toFixed(1)}k</span> Contributions			    
 			</div>
-			<div class="readme fade-in">&lt;YOUR_HANDLE/&gt;</div>
+			<div class="readme fade-in">&lt;Chams15/&gt;</div>
 		</div>
 	`;
 
