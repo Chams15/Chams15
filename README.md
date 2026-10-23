@@ -25,31 +25,31 @@
   </picture>
 </a>
 <img src="data:null;," width="100%" height="0" align="left" alt="">
-<a target="_blank" href="YOUR_WEBSITE_URL">
+<a target="_blank" href="https://cahucom.vercel.app/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://chams15-readme.clickfaster420.workers.dev/?section=link-website&theme=dark" label="Visit">
-    <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-website&theme=light&i=0" alt="visit my website" width="100" height="18px" align="left">
+    <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-website&theme=light&i=0" alt="you can visit my website - or not hmph! not like i care b-baka!" width="100" height="18px" align="left">
   </picture>
 </a>
 <img src="data:null;," width="100%" height="0" align="left" alt="">
-<a target="_blank" href="YOUR_LINKEDIN_URL">
+<a target="_blank" href="https://www.linkedin.com/in/charmelle-john-cahucom-180461242/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://chams15-readme.clickfaster420.workers.dev/?section=link-linkedin&theme=dark" label="Visit">
     <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-linkedin&theme=light&i=0" alt="visit my linkedin" width="100" height="18px" align="left">
   </picture>
 </a>
 <img src="data:null;," width="100%" height="0" align="left" alt="">
-<a target="_blank" href="YOUR_FACEBOOK_URL">
+<a target="_blank" href="https://www.facebook.com/charmelle.john.cahucom.2024">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://chams15-readme.clickfaster420.workers.dev/?section=link-facebook&theme=dark">
-    <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-facebook&theme=light&i=1" alt="visit my Facebook" width="100" height="18" align="left">
+    <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-facebook&theme=light&i=1" alt="visit my Facebook or smth i dunno" width="100" height="18" align="left">
   </picture>
 </a>
 <img src="data:null;," width="100%" height="0" align="left" alt="">
-<a target="_blank" href="YOUR_INSTAGRAM_URL">
+<a target="_blank" href="https://www.instagram.com/chamsuri15/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://chams15-readme.clickfaster420.workers.dev/?section=link-instagram&theme=dark">
-    <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-instagram&theme=light&i=2" alt="visit my Instagram" width="100" height="18" align="left">
+    <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-instagram&theme=light&i=2" alt="visit my Instagram for shitposts width="100" height="18" align="left">
   </picture>
 </a>
 <img src="data:null;," width="100%" height="0" align="left" alt="">
@@ -66,5 +66,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://chams15-readme.clickfaster420.workers.dev/?section=main&theme=dark">
-  <img src="https://chams15-readme.clickfaster420.workers.dev/?section=main&theme=light" alt="Hello, World. I am Charmelle John Cahucom. Why did the scarecrow win an award? Because he was outstanding in his field!" width="100%" height="310" align="left">
+  <img src="https://chams15-readme.clickfaster420.workers.dev/?section=main&theme=light" alt="Hello, World. I'm Chams. Why did the scarecrow win an award? Because he was outstanding in his field!" width="100%" height="310" align="left">
 </picture>
