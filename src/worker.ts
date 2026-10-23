@@ -24,22 +24,22 @@ const worker: ExportedHandler = {
       content = top({ height: 20, contributions, theme });
     } else if (section === "link-resume") {
       const index = Number(searchParams.get("i")) ?? 0;
-      content = link({ height: 18, width: 100, index, theme })("Resume");
+      content = link({ height: 18, width: 100, index, theme })("Planning to read my CV? you perv! hmph!");
     } else if (section === "link-website") {
       const index = Number(searchParams.get("i")) ?? 0;
-      content = link({ height: 18, width: 100, index, theme })("Website");
+      content = link({ height: 18, width: 100, index, theme })("you can visit my website - or not hmph! not like i care b-baka!");
     } else if (section === "link-linkedin") {
       const index = Number(searchParams.get("i")) ?? 0;
-      content = link({ height: 18, width: 100, index, theme })("LinkedIn");
+      content = link({ height: 18, width: 100, index, theme })("my linkedin be empty asf");
     } else if (section === "link-facebook") {
       const index = Number(searchParams.get("i")) ?? 0;
-      content = link({ height: 18, width: 100, index, theme })("Facebook");
+      content = link({ height: 18, width: 100, index, theme })("Visit my Facebook or smth");
     } else if (section === "link-instagram") {
       const index = Number(searchParams.get("i")) ?? 0;
-      content = link({ height: 20, width: 100, index, theme })("Instagram");
+      content = link({ height: 20, width: 100, index, theme })("go to my Instagram for shitposts");
     } else if (section === "link-twitter") {
       const index = Number(searchParams.get("i")) ?? 0;
-      content = link({ height: 18, width: 100, index, theme })("Twitter");
+      content = link({ height: 18, width: 100, index, theme })("Tmao im not giving you my twitter");
     } else if (section === "fallback") {
       content = fallback({ height: 180, width: 420, theme });
     } else {
