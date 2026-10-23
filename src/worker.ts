@@ -11,6 +11,7 @@ export type Year = {
 };
 
 const MAX_YEARS = 3;
+const measure = (label) => Math.max(100, Math.round(label.length * 7) + 34);
 
 const worker: ExportedHandler = {
   async fetch(request, env, ctx) {
@@ -24,22 +25,22 @@ const worker: ExportedHandler = {
       content = top({ height: 20, contributions, theme });
     } else if (section === "link-resume") {
       const index = Number(searchParams.get("i")) ?? 0;
-      content = link({ height: 18, width: 100, index, theme })("Planning to read my CV? you perv! hmph!");
+      content = link({ height: 18, width: measure("Planning to read my CV? you perv! hmph!"), index, theme })("Planning to read my CV? you perv! hmph!");
     } else if (section === "link-website") {
       const index = Number(searchParams.get("i")) ?? 0;
-      content = link({ height: 18, width: 100, index, theme })("you can visit my website - or not hmph! not like i care b-baka!");
+      content = link({ height: 18, width: measure("you can visit my website - or not hmph! not like i care b-baka!"), index, theme })("you can visit my website - or not hmph! not like i care b-baka!");
     } else if (section === "link-linkedin") {
       const index = Number(searchParams.get("i")) ?? 0;
-      content = link({ height: 18, width: 100, index, theme })("my linkedin be empty asf");
+      content = link({ height: 18, width: measure("my linkedin be empty asf"), index, theme })("my linkedin be empty asf");
     } else if (section === "link-facebook") {
       const index = Number(searchParams.get("i")) ?? 0;
-      content = link({ height: 18, width: 100, index, theme })("Visit my Facebook or smth");
+      content = link({ height: 18, width: measure("Visit my Facebook or smth"), index, theme })("Visit my Facebook or smth");
     } else if (section === "link-instagram") {
       const index = Number(searchParams.get("i")) ?? 0;
-      content = link({ height: 20, width: 100, index, theme })("go to my Instagram for shitposts");
+      content = link({ height: 20, width: measure("go to my Instagram for shitposts"), index, theme })("go to my Instagram for shitposts");
     } else if (section === "link-twitter") {
       const index = Number(searchParams.get("i")) ?? 0;
-      content = link({ height: 18, width: 100, index, theme })("Tmao im not giving you my twitter");
+      content = link({ height: 18, width: measure("Tmao im not giving you my twitter"), index, theme })("Tmao im not giving you my twitter");
     } else if (section === "fallback") {
       content = fallback({ height: 180, width: 420, theme });
     } else {

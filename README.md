@@ -21,42 +21,42 @@
 <a target="_blank" href="https://github.com/Chams15/Chams15/blob/main/files/Cahucom_CV-4.pdf?raw=true">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://chams15-readme.clickfaster420.workers.dev/?section=link-resume&theme=dark" label="Visit">
-    <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-resume&theme=light&i=0" alt="Charmelle John Cahucom's Resume" width="100" height="18px" align="left">
+    <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-resume&theme=light&i=0" alt="Charmelle John Cahucom's Resume" align="left">
   </picture>
 </a>
 <img src="data:null;," width="100%" height="0" align="left" alt="">
 <a target="_blank" href="https://cahucom.vercel.app/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://chams15-readme.clickfaster420.workers.dev/?section=link-website&theme=dark" label="Visit">
-    <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-website&theme=light&i=0" alt="you can visit my website - or not hmph! not like i care b-baka!" width="100" height="18px" align="left">
+    <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-website&theme=light&i=0" alt="you can visit my website - or not hmph! not like i care b-baka!" align="left">
   </picture>
 </a>
 <img src="data:null;," width="100%" height="0" align="left" alt="">
 <a target="_blank" href="https://www.linkedin.com/in/charmelle-john-cahucom-180461242/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://chams15-readme.clickfaster420.workers.dev/?section=link-linkedin&theme=dark" label="Visit">
-    <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-linkedin&theme=light&i=0" alt="visit my linkedin" width="100" height="18px" align="left">
+    <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-linkedin&theme=light&i=0" alt="visit my linkedin" align="left">
   </picture>
 </a>
 <img src="data:null;," width="100%" height="0" align="left" alt="">
 <a target="_blank" href="https://www.facebook.com/charmelle.john.cahucom.2024">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://chams15-readme.clickfaster420.workers.dev/?section=link-facebook&theme=dark">
-    <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-facebook&theme=light&i=1" alt="visit my Facebook or smth i dunno" width="100" height="18" align="left">
+    <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-facebook&theme=light&i=1" alt="visit my Facebook or smth i dunno" align="left">
   </picture>
 </a>
 <img src="data:null;," width="100%" height="0" align="left" alt="">
 <a target="_blank" href="https://www.instagram.com/chamsuri15/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://chams15-readme.clickfaster420.workers.dev/?section=link-instagram&theme=dark">
-    <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-instagram&theme=light&i=2" alt="visit my Instagram for shitposts width="100" height="18" align="left">
+    <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-instagram&theme=light&i=2" alt="visit my Instagram for shitposts" align="left">
   </picture>
 </a>
 <img src="data:null;," width="100%" height="0" align="left" alt="">
 <a target="_blank" href="YOUR_TWITTER_URL">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://chams15-readme.clickfaster420.workers.dev/?section=link-twitter&theme=dark">
-    <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-twitter&theme=light&i=1" alt="visit my Twitter/X profile" width="100" height="18" align="left">
+    <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-twitter&theme=light&i=1" alt="visit my Twitter/X profile" align="left">
   </picture>
 </a>
 <picture>
