@@ -139,7 +139,7 @@ export const shared = /* css */ `
 	
 	:root {
 		--color-black: #202020;
-		--color-white: #ffffff;
+		--color-white: #2eff1b;
     
 		--color-text-light: var(--color-black);
 		--color-text-dark: var(--color-white);
