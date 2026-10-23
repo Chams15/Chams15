@@ -4,7 +4,6 @@
   ============================================================================
   Remaining placeholders to fill in:
 
-  YOUR_RESUME_FILENAME   -> your resume file inside /files (e.g. YourName-Resume.pdf)
   YOUR_WEBSITE_URL       -> your personal website
   YOUR_LINKEDIN_URL      -> your LinkedIn profile
   YOUR_FACEBOOK_URL      -> your Facebook profile
@@ -19,7 +18,7 @@
   <img src="https://chams15-readme.clickfaster420.workers.dev/?section=top&theme=light" width="100%" height="20" align="left">
 </picture>
 <img src="data:null;," width="100%" height="0" align="left" alt="">
-<a target="_blank" href="https://github.com/Chams15/Chams15/blob/main/files/YOUR_RESUME_FILENAME?raw=true">
+<a target="_blank" href="https://github.com/Chams15/Chams15/blob/main/files/Cahucom_CV-4.pdf?raw=true">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://chams15-readme.clickfaster420.workers.dev/?section=link-resume&theme=dark" label="Visit">
     <img src="https://chams15-readme.clickfaster420.workers.dev/?section=link-resume&theme=light&i=0" alt="Charmelle John Cahucom's Resume" width="100" height="18px" align="left">
