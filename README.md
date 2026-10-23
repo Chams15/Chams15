@@ -66,5 +66,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://chams15-readme.clickfaster420.workers.dev/?section=main&theme=dark">
-  <img src="https://chams15-readme.clickfaster420.workers.dev/?section=main&theme=light" alt="Hello, World. I'm Chams. Why did the scarecrow win an award? Because he was outstanding in his field!" width="100%" height="310" align="left">
+  <img src="https://chams15-readme.clickfaster420.workers.dev/?section=main&theme=light" alt="Hello, World. I'm Chams15. Why did the scarecrow win an award? Because he was outstanding in his field!" width="100%" height="310" align="left">
 </picture>
