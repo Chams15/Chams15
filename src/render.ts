@@ -2,7 +2,7 @@ import type { Year } from "./worker";
 
 const BP_MEDIUM = 550;
 const BP_LARGE = 700;
-const BODY_COPY = `Charmelle John Cahucom—Why did the scarecrow win an award? Because he was outstanding in his field!`;
+const BODY_COPY = `Chams15 — Why did the scarecrow win an award? Because he was outstanding in his field!`;
 
 interface Props {
   width?: number;
