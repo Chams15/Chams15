@@ -56,7 +56,7 @@ export async function request(date: { from?: Date; to?: Date }) {
 		}
 		`,
     variables: {
-      username: "YOUR_GITHUB_USERNAME",
+      username: "Chams15",
       from: date.from?.toISOString(),
       to: date.to?.toISOString(),
     },
@@ -65,7 +65,7 @@ export async function request(date: { from?: Date; to?: Date }) {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      "User-Agent": "YOUR_GITHUB_USERNAME/readme",
+      "User-Agent": "Chams15/readme",
       Authorization: `bearer ${process.env.GH_SECRET}`,
     },
     body: JSON.stringify(body),
